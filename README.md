@@ -9,9 +9,9 @@
 | Dataset ID | `916254` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 2,258 records |
-| Free sample size | 298 records (13.2%) |
-| Last export | 2026-03-31T16:22:22.862276+00:00 |
+| Full dataset size | 2,980 records |
+| Free sample size | 298 records (10.0%) |
+| Last export | 2026-04-14T17:34:21.275951+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rhode-island-us-sample-916254/releases/download/sample-latest/beamstation_916254_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
