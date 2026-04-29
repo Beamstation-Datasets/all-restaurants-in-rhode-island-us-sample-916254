@@ -1,6 +1,6 @@
 # All Restaurants in Rhode Island, US
 
-> Free BeamStation sample export with 228 rows and masked direct-contact fields.
+> Free BeamStation sample export with 294 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `916254` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 2,287 records |
-| Free sample size | 228 records (9.97%) |
-| Last export | 2026-04-21T19:25:30.794925+00:00 |
+| Full dataset size | 2,944 records |
+| Free sample size | 294 records (9.99%) |
+| Last export | 2026-04-28T21:02:39.342378+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rhode-island-us-sample-916254/releases/download/sample-latest/beamstation_916254_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
