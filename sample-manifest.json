@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9cf33274-adb8-4fc3-ac31-1fd1d1ef3ec4",
+  "export_job_id": "1ba432d1-c4c9-46bc-9146-c73f6632c8f5",
   "id_short": 916254,
-  "published_at": "2026-04-29T07:17:12Z",
+  "published_at": "2026-05-07T19:17:01Z",
   "repo_name": "all-restaurants-in-rhode-island-us-sample-916254",
   "sample_asset_name": "beamstation_916254_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/916254/beamstation_916254_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 294,
-  "sample_sha256": "4263c9d61713f32735954b59e229f196457a51e3c6416d85edef6b245ae0c44e",
-  "sample_size_bytes": 949932,
-  "total_records": 2944
+  "sample_records": 307,
+  "sample_sha256": "58c01e5074f0e83da8bf5ff7090692e724e29ea134a66d7e226c3bccb646fd1b",
+  "sample_size_bytes": 1020434,
+  "total_records": 3072
 }
